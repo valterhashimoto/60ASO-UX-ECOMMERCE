@@ -1,0 +1,2 @@
+# 60ASO-UX-ECOMMERCE
+Repositório criado para a disciplina ARQUITETURA DA ESCOLHA (UX, DESIGN THINKING E MODERN WEB), turma 60ASO - FIAP
