@@ -1,7 +1,7 @@
 # 60ASO-UX-ECOMMERCE
 Repositório criado para a disciplina ARQUITETURA DA ESCOLHA (UX, DESIGN THINKING E MODERN WEB), turma 60ASO - FIAP
 
-# DESCRIÇÂO 
+# DESCRIÇÃO 
 
 O intuito deste projeto acadêmico é explorar os processos e desenvolver habilidades de análise, conceituação, construção e validação de escolhas arquiteturais. Habilidades esperadas incluem: avaliação de eventuais tradeoffs, vantagens, desvantagens, soluções de contorno, aplicação de padrões de arquitetura e frameworks de desenho para diversos públicos.
 
@@ -19,6 +19,15 @@ No corpo desta página são apresentados somente os desenhos arquiteturais. Dema
 
 # C4 - CONTEXTO
 
+![image](https://github.com/valterhashimoto/60ASO-UX-ECOMMERCE/assets/50432933/d616717d-47ce-4be9-bede-bd895c9b5aae)
+
+
 # C4 - CONTAINER
 
+![image](https://github.com/valterhashimoto/60ASO-UX-ECOMMERCE/assets/50432933/3c0399a6-2e3a-4a76-adcd-1e54290db17d)
+
+
 # C4 - COMPONENTE
+
+![image](https://github.com/valterhashimoto/60ASO-UX-ECOMMERCE/assets/50432933/99d19139-7144-4973-8137-293a8f646b80)
+
